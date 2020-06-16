@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+    <title>Kiki Rizki Amalinda</title>
+    <script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" crossorigin="anonymous"></script>
+    <link rel="icon" type="image/png" href="image/logo2.png">
+    <link rel="stylesheet" type="text/css" href="css/app.css">    
+</head>
+<body>
+    <!-- Navigation-->
+    <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="sideNav">
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">
+        	<span class="d-block d-lg-none">Kiki Rizki Amalinda</span>
+        	<span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="image/profil.jpg" alt="" /></span>
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        	<ul class="navbar-nav">
+        		<li class="nav-item"><a class="nav-link js-scroll-trigger" href="#tentang">About</a></li>
+        		<li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
+        		<li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Experience and Organization</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interests</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Portfolio and Awards</a></li>
+            </ul>
+        </div>
+    </nav>
+    <!-- Content -->
+    <div class="container-fluid p-0">
+    	<!-- Tentang -->
+    	<section class="resume-section" id="tentang">
+    		<div class="resume-section-content">
+    			<span class="d-block d-lg-none"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" style="display: block; margin-left: auto; margin-right: auto;" src="image/me.png" alt="" width="30%" /></span>
+    			<h1 class="mb-0 text-uppercase" style="font-family: Saira Extra Condensed; font-weight: 700; font-size: 6rem;">Kiki Rizki <span class="text-primary">Amalinda</span></h1>
+    			<div class="subheading mb-0 text-uppercase">FullStack Web Developer · Desktop Developer</div><br/><br/>
+    			<p class="lead mb-5">I am a junior programmer who can work with teams and a high desire to learn new things.</p>
+    			<div class="social-icons">
+    				<a class="social-icon" href="https://www.linkedin.com/in/kiki-rizki-amalinda-7952b2185/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+    				<a class="social-icon" href="https://www.instagram.com/kikirizkiamalinda/" target="_blank"><i class="fab fa-instagram"></i></a>
+    				<a class="social-icon" href="https://twitter.com/kikirizki__10" target="_blank"><i class="fab fa-twitter"></i></a>
+    				<a class="social-icon" href="https://www.facebook.com/kikirizkiamalinda/" target="_blank"><i class="fab fa-facebook"></i></a>
+    			</div>
+    		</div>
+    	</section>
+    	<hr/>
+    	<!-- Education-->
+        <section class="resume-section" id="education">
+            <div class="resume-section-content">
+                <h2 class="mb-5" style="font-family: Saira Extra Condensed; font-weight: 700; font-size: 4rem;">Education</h2>
+                <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                    <div class="flex-grow-1">
+                        <h2 class="mb-0" style="font-family: Saira Extra Condensed; font-weight: 700; font-size: 2rem;">Universitas Negeri Malang</h2>
+                        <div class="subheading mb-3">Informatic Technology</div>
+        	            <p>GPA : 3,48 of 4,00</p>
+                    </div>
+                    <div class="flex-shrink-0"><span class="text-primary">August 2015 - April 2020</span></div>
+                </div>
+                <div class="d-flex flex-column flex-md-row justify-content-between">
+                    <div class="flex-grow-1">
+                        <h3 class="mb-0" style="font-family: Saira Extra Condensed; font-weight: 700; font-size: 2rem;">State High School 9 Malang</h3>
+                        <div class="subheading mb-3">Science</div>
+                        <p>GPA: 8,5 of 10</p>
+                    </div>
+                    <div class="flex-shrink-0"><span class="text-primary">August 2012 - Juli 2015</span></div>
+                </div>
+            </div>
+        </section>
+        <hr/>
+    	<!-- Skills-->
+    	<section class="resume-section" id="skills">
+            <div class="resume-section-content">
+                <h2 class="mb-5" style="font-family: Saira Extra Condensed; font-weight: 700; font-size: 4rem;">Skills</h2>
+                <div class="subheading mb-3">Scripting and Programming Languages</div>
+                <ul class="list-inline dev-icons">
+                    <li class="list-inline-item"><i class="fab fa-html5"></i></li>
+                    <li class="list-inline-item"><i class="fab fa-css3-alt"></i></li>
+                    <li class="list-inline-item"><i class="fab fa-js"></i></li>
+                    <li class="list-inline-item"><i class="fab fa-vuejs"></i></li>
+                    <li class="list-inline-item"><i class="fab fa-laravel"></i></li>
+                    <li class="list-inline-item"><i class="fab fa-php"></i></li>
+                    <li class="list-inline-item"><i class="fab fa-java"></i></li>
+                    <li class="list-inline-item"><i class="fab fa-bootstrap"></i></li>
+                </ul>
+                <div class="subheading mb-3">Graphic Software</div>
+                <ul class="list-inline dev-icons">
+                    <li class="list-inline-item"><i><img src="image/ps.jpg" width="50px" /></i></li>
+                    <li class="list-inline-item"><i><img src="image/ai.png" width="50px" /></i></li>
+                    <li class="list-inline-item"><i><img src="image/crd.png" width="50px" /></i></li>
+                </ul>
+                <div class="subheading mb-3">Video and 3D software</div>
+                <ul class="list-inline dev-icons">
+                    <li class="list-inline-item"><i><img src="image/pre.png" width="50px" /></i></li>
+                    <li class="list-inline-item"><i><img src="image/blender.png" width="50px" /></i></li>
+                </ul>
+            </div>
+        </section>
+        <hr />
+    	<!-- Experience-->
+        <section class="resume-section" id="experience">
+            <div class="resume-section-content">
+                <h2 class="mb-5" style="font-family: Saira Extra Condensed; font-weight: 700; font-size: 4rem;">Experience</h2>
+                <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                    <div class="flex-grow-1">
+                        <h3 class="mb-0">Techno Basketball</h3>
+                        <div class="subheading mb-3">Universitas Negeri Malang</div>
+                        <p>Become an active member.</p>
+                    </div>
+                    <div class="flex-shrink-0"><span class="text-primary">August 2015 - September 2018</span></div>
+                </div>
+                <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                    <div class="flex-grow-1">
+                        <h3 class="mb-0">Executive Council of Student Fakultas Teknik Universitas Negeri Malang</h3>
+                        <div class="subheading mb-3">Universitas Negeri Malang</div>
+                        <p>Talent and interest fields and chief executive of the work program Techno 3 on 3 Competition 2018.</p>
+                    </div>
+                    <div class="flex-shrink-0"><span class="text-primary">Januari 2018 - Desember 2018</span></div>
+                </div>
+                <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                    <div class="flex-grow-1">
+                        <h3 class="mb-0">Lab Asistent</h3>
+                        <div class="subheading mb-3">Universitas Negeri Malang</div>
+                        <p>Object oriented programming lab assistant.</p>
+                    </div>
+                    <div class="flex-shrink-0"><span class="text-primary">August 2018 - November 2018</span></div>
+                </div>
+                <div class="d-flex flex-column flex-md-row justify-content-between">
+                    <div class="flex-grow-1">
+                        <h3 class="mb-0">Web Development Intern</h3>
+                        <div class="subheading mb-3">Halo Malang and Thunderlab Indonesia</div>
+                        <p>Make a website with laravel and bootstrap</p>
+                    </div>
+                    <div class="flex-shrink-0"><span class="text-primary">September 2008 - June 2010</span></div>
+                </div>
+            </div>
+        </section>
+        <hr />
+        <!-- Interest-->
+        <section class="resume-section" id="interests">
+            <div class="resume-section-content">
+                <h2 class="mb-5" style="font-family: Saira Extra Condensed; font-weight: 700; font-size: 4rem;">Interests</h2>
+                <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                    <p>Apart from being a web developer, I like activities outside the home. I play futsal and basketball when I have loose time. When forced into the room, I like many dangdut and pop genre songs. Besides that, I also like Korean dramas.</p>
+                </div>
+            </div>
+        </section>
+        <hr/>
+        <!-- Portfolio and Awards-->
+        <section class="resume-section" id="awards">
+            <div class="resume-section-content">
+                <h2 class="mb-5" style="font-family: Saira Extra Condensed; font-weight: 700; font-size: 4rem;">Portfolio and Awards</h2>
+                <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                    <div class="flex-grow-1">
+                        <h3 class="mb-0">Mr. White</h3>
+                        <div class="subheading mb-3">Website</div>
+                        <p>Mr. White is created using the laravel framework with bootstrap as front-end and PHP and mysql as back-end.</p>
+                    </div>
+                    <div class="flex-shrink-0"><span class="text-primary">-</span></div>
+                </div>
+                <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                    <div class="flex-grow-1">
+                        <h3 class="mb-0">Website BEM FT UM</h3>
+                        <div class="subheading mb-3">Website</div>
+                        <p>This website is created using wordpress.</p>
+                    </div>
+                    <div class="flex-shrink-0"><i class="fas fa-trophy text-danger"></i><span class="text-primary">1<sup>st </sup>Place - Universitas Negeri Malang - Ormawa Of the Year Website Category 2018</span></div>
+                </div>
+                <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                    <div class="flex-grow-1">
+                        <h3 class="mb-0">Apotek Buring Farma</h3>
+                        <div class="subheading mb-3">Website</div>
+                        <p>This website is created using PHP Native.</p>
+                    </div>
+                    <div class="flex-shrink-0"><span class="text-primary">-</span></div>
+                </div>
+                <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                    <div class="flex-grow-1">
+                        <h3 class="mb-0">My Portfolio Website</h3>
+                        <div class="subheading mb-3">Website</div>
+                        <p>This website is created using PHP Native with Bootstrap and Laravel Mix.</p>
+                    </div>
+                    <div class="flex-shrink-0"><span class="text-primary">-</span></div>
+                </div>
+                <div class="d-flex flex-column flex-md-row justify-content-between">
+                    <div class="flex-grow-1">
+                        <h3 class="mb-0">SIPUAS TE UM</h3>
+                        <div class="subheading mb-3">Desktop Application</div>
+                        <p>SIPUAS is created using java language programming and NetBeans. SIPUAS using Artificial Bee Colony Algorithm as the engine algoritm. This application is made for the thesis entitled "Application of Artificial Bee Colony Algorithm for Optimizing Scheduling of Final Semester Exams in the Department of Electrical Engineering, State University of Malang."</p>
+                    </div>
+                    <div class="flex-shrink-0"><span class="text-primary">-</span></div>
+                </div>
+            </div>
+        </section>
+        <hr />
+    </div>
+
+<script type="text/javascript" src="js/app.js"></script>
+</body>
+</html>
